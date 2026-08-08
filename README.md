@@ -129,9 +129,9 @@ Start → Display Menu → Select Operation → Perform Operation → Return to 
 
 ## Program Output
 
-![Program Output 1](C%20Bank%20outout.png)
+![Bank Management System Output 1](C%20Bank%20outout.png)
 
-![Program Output 2](C%20Bank%20output%201.png)
+![Bank Management System Output 2](C%20Bank%20output%201.png)
 
 ---
 
